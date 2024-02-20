@@ -1,3 +1,16 @@
+# Tech Sharks Edited Copy of Astrofy theme
+Hello! This is a branch of the popular theme Astrofy, edited specifically for college students and freshers to have a portfolio website. Special thanks to the Astrofy devs for the theme to start with. Please learn more about the theme below.
+Best,
+Alexander Small
+
+
+
+
+
+
+
+
+
 # Astrofy | Personal Portfolio Website Template
 
 ![Astrofy | Personal Porfolio Website Template](public/social_img.webp)
