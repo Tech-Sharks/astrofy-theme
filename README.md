@@ -153,7 +153,6 @@ You can add a [content collection](https://docs.astro.build/en/guides/content-co
 #### config.ts
 
 Where you need to define your content collections, we define our content schemas too.
-```
 
 #### Static pages
 
